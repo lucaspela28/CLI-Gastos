@@ -1,0 +1,52 @@
+[
+  {
+    "fecha": "2023-11-01T16:00:38.282Z",
+    "Especificacion": "Impuesto",
+    "monto": "4748.68"
+  },
+  {
+    "fecha": "2023-11-01T16:01:19.458Z",
+    "Especificacion": "Impuesto",
+    "monto": "5621.4"
+  },
+  {
+    "fecha": "2023-11-01T16:01:54.132Z",
+    "Especificacion": "Impuesto",
+    "monto": "2475.71"
+  },
+  {
+    "fecha": "2023-11-01T16:03:15.516Z",
+    "Especificacion": "Almacen",
+    "monto": "2420"
+  },
+  {
+    "fecha": "2023-11-01T16:03:46.725Z",
+    "Especificacion": "Carniceria",
+    "monto": "2903.60"
+  },
+  {
+    "fecha": "2023-11-01T16:05:38.686Z",
+    "Especificacion": "Cuenta DNI",
+    "monto": "-2054.10"
+  },
+  {
+    "fecha": "2023-11-01T16:17:17.104Z",
+    "Especificacion": "Cuenta DNI",
+    "monto": "-5000"
+  },
+  {
+    "fecha": "2023-11-01T13:11:31.638Z",
+    "Especificacion": "Varios",
+    "monto": "11000"
+  },
+  {
+    "fecha": "2023-11-01T13:12:04.905Z",
+    "Especificacion": "Farmacia",
+    "monto": "2550"
+  },
+  {
+    "fecha": "2023-11-02T13:12:44.630Z",
+    "Especificacion": "Almacen",
+    "monto": "210"
+  }
+]
